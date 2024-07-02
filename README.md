@@ -2,10 +2,10 @@
 
 ![Cover Photo](https://github.com/kalidashodekare14/kalidashodekare14/assets/160324986/8497a8b1-27a2-4fc6-944b-49c854f3f9e8)
 
-<p align="center">
-### Hi there 👋, My name is Kalidash Odekare
-#### I am Front End Developer
-</p>
+<div>
+  <h1>Hi there 👋, My name is Kalidash Odekare</h1>
+  <h4>I am Front End Developer</h4>
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kalidashodekare14" alt="GitHub Streak" />
