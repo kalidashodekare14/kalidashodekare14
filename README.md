@@ -11,7 +11,7 @@ Hello I am Kalidash, working as a front end developer. I love to build modern ap
 
 ## Technologies that i know
 <p>
-  <img src="https://github.com/kalidashodekare14/kalidashodekare14/assets/160324986/3b5db5c5-70b9-42ae-b01a-72bec42baaf2" />
+  <[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 ##
