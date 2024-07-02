@@ -15,3 +15,4 @@ Hello I am Kalidash, working as a front end developer. I love to build modern ap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14" />
