@@ -6,10 +6,10 @@
   <img src="https://streak-stats.demolab.com?user=kalidashodekare14" alt="GitHub Streak" />
 </p>
 
-## About Me
+## 🙋‍♂️ About Me
 Hello I am Kalidash, working as a front end developer. I love to build modern applications using react, next.js tailwin css. I am proficient in Javascript and try to learn new technologies. If anyone likes my work, please contact me.
 
-## Technologies that i know
+## 🖥️ Technologies that i know
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,express,mongodb" />
 </p>
