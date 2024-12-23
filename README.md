@@ -18,9 +18,14 @@ Hello, I am Kalidash, working as a web developer. I am skilled in creating moder
  </div>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14&layout=compact&card_width=600" />
-</p>
+</div>
 
 ## 🖥️ Technologies that i know
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,express,mongodb" />
-</p>
+<div align="center">
+ <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=kalidashodekare14&layout=compact&card_width=600"&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://streak-stats.demolab.com?user=kalidashodekare14&layout=compact&card_width=600"" alt="GitHub Streak" />
+ </div>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14&layout=compact&card_width=600" />
+</div>
