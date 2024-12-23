@@ -25,5 +25,3 @@ Hello, I am Kalidash, working as a web developer. I am skilled in creating moder
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,express,mongodb" />
 </p>
 
-<img src="https://raw.githubusercontent.com/kalidashodekare14/kalidashodekare14/output/snake.svg" alt="Snake animation" />
-
