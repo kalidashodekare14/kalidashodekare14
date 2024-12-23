@@ -6,7 +6,7 @@
   <h3><strong>Hi there 👋, My name is Kalidash Odekare</strong></h1>
   <h4>I am Front End Developer</h4>
 </div>
-# 💫 About Me:
+# 💫 About Me :
 Hello I am Kalidash, working as a front end developer. I love to build modern applications using react, next.js tailwin css. I am proficient in Javascript and try to learn new technologies. If anyone likes my work, please contact me.
 
 <p align="center">
