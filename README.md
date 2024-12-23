@@ -27,4 +27,3 @@ Hello, I am Kalidash, working as a web developer. I am skilled in creating moder
 
 <img src="https://raw.githubusercontent.com/kalidashodekare14/kalidashodekare14/output/snake.svg" alt="Snake animation" />
 
-###
