@@ -15,7 +15,7 @@ Hello I am Kalidash, working as a front end developer. I love to build modern ap
   <img src="https://streak-stats.demolab.com?user=kalidashodekare14" alt="GitHub Streak" />
  </div>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14&layout=compact&card_width=500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14&layout=compact&card_width=600" />
 </p>
 
 ## 🖥️ Technologies that i know
