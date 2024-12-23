@@ -10,7 +10,7 @@ Hello I am Kalidash, working as a front end developer. I love to build modern ap
 
 # 💻 Tech Stack:
 <div align="center">
- <div>
+ <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=kalidashodekare14&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com?user=kalidashodekare14" alt="GitHub Streak" />
  </div>
