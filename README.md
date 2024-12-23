@@ -8,6 +8,7 @@ Hello I am Kalidash, working as a front end developer. I love to build modern ap
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/developerKalidash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/developer-kalidash) 
 
+# 💻 Tech Stack:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalidashodekare14&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com?user=kalidashodekare14" alt="GitHub Streak" />
