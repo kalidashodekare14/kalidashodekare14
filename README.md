@@ -21,3 +21,6 @@ Hello, I am Kalidash, working as a web developer. I am skilled in creating moder
 </div>
 
 ## 🖥️ Technologies that i know
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,express,mongodb" />
+</p>
