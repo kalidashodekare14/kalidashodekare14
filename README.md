@@ -1,6 +1,5 @@
 
-
-![Cover Photo](https://github.com/kalidashodekare14/kalidashodekare14/assets/160324986/8497a8b1-27a2-4fc6-944b-49c854f3f9e8)
+![banner](https://github.com/user-attachments/assets/c1c9307a-d432-459d-8fe0-3407344a9191)
 
 # 💫 About Me :
 Hello, I am Kalidash, working as a web developer. I am skilled in creating modern applications using HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB. I also enjoy working with new technologies. I aspire to become a full-stack developer in the next 5 years.
