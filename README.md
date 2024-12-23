@@ -10,7 +10,12 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kalidashodekare14" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kalidashodekare14&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kalidashodekare14&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 ## 🙋‍♂️ About Me
 Hello I am Kalidash, working as a front end developer. I love to build modern applications using react, next.js tailwin css. I am proficient in Javascript and try to learn new technologies. If anyone likes my work, please contact me.
