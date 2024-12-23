@@ -12,7 +12,7 @@ Hello I am Kalidash, working as a front end developer. I love to build modern ap
 <div align="center">
  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=kalidashodekare14&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://streak-stats.demolab.com?user=kalidashodekare14" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kalidashodekare14&layout=compact&card_width=600"" alt="GitHub Streak" />
  </div>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14&layout=compact&card_width=600" />
