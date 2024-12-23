@@ -10,6 +10,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalidashodekare14&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com?user=kalidashodekare14" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14" />
 </p>
 
 ## 🙋‍♂️ About Me
@@ -18,9 +20,4 @@ Hello I am Kalidash, working as a front end developer. I love to build modern ap
 ## 🖥️ Technologies that i know
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,express,mongodb" />
-</p>
-
-##
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14" />
 </p>
