@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kalidashodekare14&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com?user=kalidashodekare14" alt="GitHub Streak" />
   <br>
-  <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14&layout=compact&card_width=500" />
 </p>
 
 ## 🙋‍♂️ About Me
