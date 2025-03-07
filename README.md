@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/c817bff2-109b-4953-a192-b9857b3aa4c4)
+![banner](https://github.com/user-attachments/assets/93ff7334-65c8-4879-b28d-e49288922e82)
+
 
 # 💫 About Me :
 Hello, I am Kalidash, working as a MERN Stack & Frontend Developer . I am skilled in creating modern applications using HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB. I also enjoy working with new technologies. I aspire to become a full-stack developer in the next 5 years.
