@@ -2,7 +2,7 @@
 
 
 # 💫 About Me :
-Hello, I am Kalidash, working as a Frontend Developer . I am skilled in creating modern applications using HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB. I also enjoy working with new technologies. I aspire to become a full-stack developer in the next 5 years.
+I am a Frontend Developer skilled in React.js, Next.js, and Tailwind CSS. Additionally, I have experience with backend technologies such as Node.js, Express.js, and MongoDB, which enables me to work on MERN Stack Development when needed. I build user-friendly and responsive web applications. I am continuously learning new technologies and striving to improve my skills. I enjoy working in a team environment and aim to become a proficient Full Stack Developer within the next five years
 
 
 
