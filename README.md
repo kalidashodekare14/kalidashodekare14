@@ -1,5 +1,4 @@
-![banner](https://github.com/user-attachments/assets/85b48965-207f-48ca-bf97-15a6936f9ef0)
-
+![banner](https://github.com/user-attachments/assets/d5b93a09-610f-4eda-a4fc-7f7023380ba3)
 
 # 💫 About Me :
 I am a Frontend Developer skilled in React.js, Next.js, and Tailwind CSS. Additionally, I have experience with backend technologies such as Node.js, Express.js, and MongoDB, which enables me to work on MERN Stack Development when needed. I build user-friendly and responsive web applications. I am continuously learning new technologies and striving to improve my skills. I enjoy working in a team environment and aim to become a proficient Full Stack Developer within the next five years
