@@ -4,7 +4,6 @@
 I am a Frontend Developer skilled in React.js, Next.js, and Tailwind CSS. Additionally, I have experience with backend technologies such as Node.js, Express.js, and MongoDB, which enables me to work on MERN Stack Development when needed. I build user-friendly and responsive web applications. I am continuously learning new technologies and striving to improve my skills. I enjoy working in a team environment and aim to become a proficient Full Stack Developer within the next five years
 
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/developerKalidash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/developer-kalidash) 
 
