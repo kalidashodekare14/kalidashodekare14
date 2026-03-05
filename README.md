@@ -17,6 +17,7 @@ I am a Frontend Developer skilled in React.js, Next.js, and Tailwind CSS. Additi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalidashodekare14&layout=compact&card_width=600" />
 </div>
 
+
 ## 🖥️ Technologies that i know
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,express,mongodb" />
