@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/d5b93a09-610f-4eda-a4fc-7f7023380ba3)
+![banner]([https://github.com/user-attachments/assets/d5b93a09-610f-4eda-a4fc-7f7023380ba3](https://github.com/user-attachments/assets/6fdbdba2-1341-4960-85be-a2bec6647d54))
+
 
 # 💫 About Me :
 I’m a MERN Stack Developer with experience building modern, responsive web applications using React, Next.js, and Node.js. I enjoy turning ideas into real-world products that solve practical problems and deliver smooth user experiences.
