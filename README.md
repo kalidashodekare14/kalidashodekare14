@@ -1,4 +1,5 @@
-![banner]([https://github.com/user-attachments/assets/d5b93a09-610f-4eda-a4fc-7f7023380ba3](https://github.com/user-attachments/assets/6fdbdba2-1341-4960-85be-a2bec6647d54))
+<img width="1400" height="350" alt="1777407664896" src="https://github.com/user-attachments/assets/a8595dda-50d9-4084-b725-66e195c85cc0" />
+
 
 
 # 💫 About Me :
