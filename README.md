@@ -33,3 +33,6 @@ I’m continuously learning and improving my skills to build better, faster, and
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,express,mongodb" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalidashodekare14&abbreviated=true" alt="Profile views" />
+</p>
