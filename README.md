@@ -55,7 +55,7 @@ I enjoy solving complex problems with clean, maintainable code. Following solid 
   <img src="https://komarev.com/ghpvc/?username=kalidashodekare14&abbreviated=true" alt="Profile views" />
 </p>
 
-<h3>🔥 GitHub Streak</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalidashodekare14&theme=radial" alt="kalidash streak" />
+<h3>🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kalidashodekare14&theme=onedark&column=6" alt="kalidash trophies" />
 </p>
