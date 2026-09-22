@@ -59,3 +59,9 @@ I enjoy solving complex problems with clean, maintainable code. Following solid 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalidashodekare14&abbreviated=true" alt="Profile views" />
 </p>
+
+
+<h3>🎵 Spotify Activity</h3>
+<p>
+  <img src="https://novorender-spotify-readme.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+</p>
