@@ -1,19 +1,30 @@
-<img src="https://github.com/user-attachments/assets/a8595dda-50d9-4084-b725-66e195c85cc0" />
-
+<img src="https://github.com/user-attachments/assets/8ef4bedd-3c64-4c26-a894-b8b1834c53ee" />
 
 
 # 💫 About Me :
-I’m a MERN Stack Developer with experience building modern, responsive web applications using React, Next.js, and Node.js. I enjoy turning ideas into real-world products that solve practical problems and deliver smooth user experiences.
+I am a Full Stack Developer and passionate problem solver who enjoys building modern, high-performance web applications with clean architecture and scalable infrastructure.
 
-I have experience working on full-stack applications involving REST API integration, authentication systems, and MongoDB database management. I also use Redux Toolkit and React Query to build scalable and efficient applications with clean architecture.
+Currently, I work as a Full Stack Developer at AnantNetra Technologies Private Limited, where I build and maintain the Quantiquen SDI Platform from scratch on my own. I handle both the frontend and backend parts of the application. On the UI side, I use Next.js, TypeScript, Tailwind CSS, and ShadCN UI to create clean and responsive designs. For the backend, I build reliable server systems using Express.js, Nest.js, PostgreSQL, and Prisma. I also set up Redis and BullMQ to manage background tasks and use Docker to keep everything running smoothly.
 
-My projects include a disaster relief platform with donation features, a doctor appointment booking system, and a pet adoption platform. These projects helped me gain strong hands-on experience in both frontend and backend development.
+I enjoy solving complex problems with clean, maintainable code. Following solid architecture principles is important to me, and I always write simple code that is easy to read, test, and scale.
 
-I’m continuously learning and improving my skills to build better, faster, and more impactful web applications.
+Technologies
+• Frontend: Next.js, React.js, TypeScript, JavaScript, Tailwind CSS, ShadCN UI, Redux Toolkit
+• Backend & APIs: Node.js, Express.js, Nest.js, RESTful APIs, JWT Authentication
+• Databases & ORM: PostgreSQL, Prisma ORM, MongoDB
+• DevOps, Caching & Queues: Docker, Redis, BullMQ
+• Tools & Platforms: Git, GitHub, Postman, Vercel, Render
 
-🌍 Portfolio: https://dev-kalidash.vercel.app 
+Interests
+High-Performance Web & Backend Systems
+System Design, Docker & Containerization
+Building Impactful Digital Products & SaaS
+Modern Desktop Apps (React Native, Electron)
+
+🌐 Portfolio: https://dev-kalidash.vercel.app
 💻 GitHub: https://github.com/kalidashodekare14
 📧 Email: kalidashodekare14@gmail.com
+📱 Mobile: +8801776046270
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/developerKalidash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalidash-odekare-webdev) 
