@@ -8,12 +8,14 @@ Currently, I work as a Full Stack Developer at AnantNetra Technologies Private L
 
 I enjoy solving complex problems with clean, maintainable code. Following solid architecture principles is important to me, and I always write simple code that is easy to read, test, and scale.
 
-Technologies
-• Frontend: Next.js, React.js, TypeScript, JavaScript, Tailwind CSS, ShadCN UI, Redux Toolkit
-• Backend & APIs: Node.js, Express.js, Nest.js, RESTful APIs, JWT Authentication
-• Databases & ORM: PostgreSQL, Prisma ORM, MongoDB
-• DevOps, Caching & Queues: Docker, Redis, BullMQ
-• Tools & Platforms: Git, GitHub, Postman, Vercel, Render
+<h3>🛠️ Technologies & Tools</h3>
+<ul>
+  <li><strong>Frontend:</strong> Next.js, React.js, TypeScript, JavaScript, Tailwind CSS, ShadCN UI, Redux Toolkit</li>
+  <li><strong>Backend & APIs:</strong> Node.js, Express.js, Nest.js, RESTful APIs, JWT Authentication</li>
+  <li><strong>Databases & ORM:</strong> PostgreSQL, Prisma ORM, MongoDB</li>
+  <li><strong>DevOps, Caching & Queues:</strong> Docker, Redis, BullMQ</li>
+  <li><strong>Tools & Platforms:</strong> Git, GitHub, Postman, Vercel, Render</li>
+</ul>
 
 Interests
 High-Performance Web & Backend Systems
