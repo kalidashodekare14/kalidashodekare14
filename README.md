@@ -55,3 +55,8 @@ I enjoy solving complex problems with clean, maintainable code. Following solid 
   <img src="https://komarev.com/ghpvc/?username=kalidashodekare14&abbreviated=true" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/kalidashodekare14">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+%26+Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Passionate+About+System+Design" alt="Typing SVG" />
+  </a>
+</p>
