@@ -49,8 +49,13 @@ I enjoy solving complex problems with clean, maintainable code. Following solid 
 
 ## 🖥️ Technologies that i know
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nextjs,nodejs,express,nestjs,mongodb,postgres,prisma,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,nestjs,mongodb,postgres,prisma,redis,docker" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalidashodekare14&abbreviated=true" alt="Profile views" />
+</p>
+
+<h3>🔥 GitHub Streak</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalidashodekare14&theme=radial" alt="kalidash streak" />
 </p>
