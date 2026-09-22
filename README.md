@@ -1,5 +1,10 @@
 <img src="https://github.com/user-attachments/assets/8ef4bedd-3c64-4c26-a894-b8b1834c53ee" />
 
+<p align="center">
+  <a href="https://github.com/kalidashodekare14">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+%26+Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Passionate+About+System+Design" alt="Typing SVG" />
+  </a>
+</p>
 
 # 💫 About Me :
 I am a Full Stack Developer and passionate problem solver who enjoys building modern, high-performance web applications with clean architecture and scalable infrastructure.
@@ -53,10 +58,4 @@ I enjoy solving complex problems with clean, maintainable code. Following solid 
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalidashodekare14&abbreviated=true" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kalidashodekare14">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+%26+Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Passionate+About+System+Design" alt="Typing SVG" />
-  </a>
 </p>
