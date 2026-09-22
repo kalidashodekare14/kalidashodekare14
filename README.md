@@ -23,10 +23,13 @@ System Design, Docker & Containerization
 Building Impactful Digital Products & SaaS
 Modern Desktop Apps (React Native, Electron)
 
-🌐 Portfolio: https://dev-kalidash.vercel.app
-💻 GitHub: https://github.com/kalidashodekare14
-📧 Email: kalidashodekare14@gmail.com
-📱 Mobile: +8801776046270
+<h3>📫 Connect with Me</h3>
+<ul>
+  <li><strong>🌐 Portfolio:</strong> <a href="https://dev-kalidash.vercel.app" target="_blank">dev-kalidash.vercel.app</a></li>
+  <li><strong>💻 GitHub:</strong> <a href="https://github.com/kalidashodekare14" target="_blank">github.com/kalidashodekare14</a></li>
+  <li><strong>📧 Email:</strong> <a href="mailto:kalidashodekare14@gmail.com">kalidashodekare14@gmail.com</a></li>
+  <li><strong>📱 Mobile:</strong> <a href="tel:+8801776046270">+8801776046270</a></li>
+</ul>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/developerKalidash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalidash-odekare-webdev) 
