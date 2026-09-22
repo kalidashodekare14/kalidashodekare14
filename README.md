@@ -42,7 +42,7 @@ Modern Desktop Apps (React Native, Electron)
 
 ## 🖥️ Technologies that i know
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nextjs,nodejs,express,nestjs,mongodb,postgres,prisma,redis,docker" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalidashodekare14&abbreviated=true" alt="Profile views" />
