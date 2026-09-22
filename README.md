@@ -55,7 +55,3 @@ I enjoy solving complex problems with clean, maintainable code. Following solid 
   <img src="https://komarev.com/ghpvc/?username=kalidashodekare14&abbreviated=true" alt="Profile views" />
 </p>
 
-<h3>⌛ Weekly Coding Activity</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kalidashodekare14&theme=radial" alt="wakatime stats" />
-</p>
