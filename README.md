@@ -61,7 +61,3 @@ I enjoy solving complex problems with clean, maintainable code. Following solid 
 </p>
 
 
-<h3>📈 Activity Graph</h3>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalidashodekare14&theme=react-dark" alt="Activity Graph" />
-</p>
