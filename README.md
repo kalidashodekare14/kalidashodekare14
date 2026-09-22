@@ -17,11 +17,13 @@ I enjoy solving complex problems with clean, maintainable code. Following solid 
   <li><strong>Tools & Platforms:</strong> Git, GitHub, Postman, Vercel, Render</li>
 </ul>
 
-Interests
-High-Performance Web & Backend Systems
-System Design, Docker & Containerization
-Building Impactful Digital Products & SaaS
-Modern Desktop Apps (React Native, Electron)
+<h3>🎯 Interests</h3>
+<ul>
+  <li><strong>High-Performance Web & Backend Systems</strong></li>
+  <li><strong>System Design, Docker & Containerization</strong></li>
+  <li><strong>Building Impactful Digital Products & SaaS</strong></li>
+  <li><strong>Modern Desktop Apps</strong> (React Native, Electron)</li>
+</ul>
 
 <h3>📫 Connect with Me</h3>
 <ul>
