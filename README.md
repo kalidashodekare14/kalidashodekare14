@@ -9,7 +9,7 @@
 # 💫 About Me :
 I am a Full Stack Developer and passionate problem solver who enjoys building modern, high-performance web applications with clean architecture and scalable infrastructure.
 
-Currently, I work as a Full Stack Developer at AnantNetra Technologies Private Limited, where I build and maintain the Quantiquen SDI Platform from scratch on my own. I handle both the frontend and backend parts of the application. On the UI side, I use Next.js, TypeScript, Tailwind CSS, and ShadCN UI to create clean and responsive designs. For the backend, I build reliable server systems using Express.js, Nest.js, PostgreSQL, and Prisma. I also set up Redis and BullMQ to manage background tasks and use Docker to keep everything running smoothly.
+Currently, I work as a Full Stack Developer at AnantNetra Technologies Private Limited, contributing to the development of a scalable SaaS platform across frontend and backend systems. On the frontend, I use Next.js, TypeScript, Tailwind CSS, and ShadCN UI to create clean and responsive interfaces. On the backend, I work with Express.js, Nest.js, PostgreSQL, and Prisma to build reliable server-side systems and APIs. I also use Redis and BullMQ to manage background tasks and Docker to keep application services running smoothly.
 
 I enjoy solving complex problems with clean, maintainable code. Following solid architecture principles is important to me, and I always write simple code that is easy to read, test, and scale.
 
